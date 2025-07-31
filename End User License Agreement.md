@@ -1,6 +1,6 @@
 # End User License Agreement (EULA) 
 
-### Last Updated:2025-06-16
+### Last Updated:2025-07-31
 
 This End User License Agreement ("Agreement") is a legally binding agreement between you ("Licensee") and Telechips, Inc. ("Licensor") regarding your use of the Software Development Kit (hereafter "SDK"). Licensor owns the copyright of this SDK and has released under the terms of this Agreement. By clicking "I Agree," downloading, installing, or otherwise using the SDK, you agree to be bound by these terms. This SDK is made available for unrestricted use, modification, and distribution, except as limited by applicable laws and the conditions below. If you do not agree to these terms, do not use the SDK. 
 
