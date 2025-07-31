@@ -1,4 +1,4 @@
-# Downloads 오후 01시 32분
+# Downloads 오후 01시 59분
 ---
 Downloads is the place for downloading Yocto SDK, Ubuntu Images, and etc.
 <br/><br/>
